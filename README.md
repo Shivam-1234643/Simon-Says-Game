@@ -69,7 +69,7 @@ This project does not use any external libraries or frameworks. It is built enti
 ![Gameplay](https://i.ibb.co/rRRKWc7Z/Screenshot-13.png)
 
 ### Game Over Screen
-![Game Over Screen](https://i.ibb.co/9mznZHsJ/Screenshot-12.png)
+![Game Over Screen](https://i.ibb.co/DfbRWgt4/Screenshot-14.png)
 
 ---
 
