@@ -89,4 +89,4 @@ This project is open-source and available under the [MIT License](https://openso
 
 ---
 
-Enjoy playing the Simon Says Game and challenge your memory skills!
+Enjoy playing the Simon Says Game and challenge your memory skills! it will boost your memory power
